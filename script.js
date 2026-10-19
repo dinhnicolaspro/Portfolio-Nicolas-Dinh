@@ -51,11 +51,10 @@ function initTypingEffect() {
     const typingText = document.getElementById('typing-text');
     const phrases = [
         'Web Developer',
-        'Front-End', 
-        'Problem Solver',
-        'Code Explorer',
-        'AI Explorer',
-        'Innovator'
+        'Nokia Apprentice',
+        'EEMI Student',
+        'Front-End',
+        'PHP & SQL'
     ];
     
     let currentPhraseIndex = 0;
@@ -257,9 +256,3 @@ document.addEventListener('DOMContentLoaded', function () {
         );
     });
 });
-
-
-
-
-
-
